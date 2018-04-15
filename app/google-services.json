@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065932078948",
+    "firebase_url": "https://fir-phone-a3375.firebaseio.com",
+    "project_id": "fir-phone-a3375",
+    "storage_bucket": "fir-phone-a3375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065932078948:android:959d961b8f9633ec",
+        "android_client_info": {
+          "package_name": "com.dola.firebasephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065932078948-8m2d5ok9fu33les91krua6ag2joiaj8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dola.firebasephone",
+            "certificate_hash": "c484ce3c1d5e69652d6d3f92c52ef53a2a0f5186"
+          }
+        },
+        {
+          "client_id": "1065932078948-0p92cqtmiiqbpv8ogpja4tb7dj5n10uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ec4WLv1B1m84MwsuyKTf9Bx5kny0UQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065932078948-0p92cqtmiiqbpv8ogpja4tb7dj5n10uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
